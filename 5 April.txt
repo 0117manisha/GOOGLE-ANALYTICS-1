@@ -1,0 +1,39 @@
+Go through the Example-1:  Given in the Link -https://support.google.com/analytics/answer/6367342?hl=en#zippy=%2Cin-this-article  is the Google Analytics 4 property: Google Merchandise Store (web data) of the Google Merchandise Store  website. Click on those links and Go through the Google analytics dashboard and Write down what information you are getting in the Home, Reports, Explore and Advertising Tabs.
+-	Homepage, its personalized overview of important metrics, insights and total active user, key events and filter out as needed.
+-	At the top we can set multiple accounts and manage through dropdown list option.
+Active, new or Returning user by country or ID
+Views by page title and screen class
+New User channel group, items purchased, event count and name
+
+
+Go through the  Example-2: Given in the Link -https://support.google.com/analytics/answer/6367342?hl=en#zippy=%2Cin-this-article is the Google Analytics 4 property: Flood-It! (app and web data) of the website  Flood-It!  
+Click on these links and Go through the Google Analytics Dashboard and Write down what information you are getting in the Home, Reports, Explore and Advertising Tabs.
+
+Reports:
+-	Under the Menu tab there are Reports (provides data of users and their engagement with the website or app) , Explore (to explore more of the advanced techniques to analyze the data) & Advertising (performance records)
+-	Reports snapshot provides data of active user, new user, average engagement and total Revenue. Also we can add comparison to get sources of direct traffic, mobile traffic , etc.
+-	Realtime overview and pages provides data by realtime user engagement i.e within 30 min or 5min.
+Direct purchases, user details like people adding to cart , purchasing, , payment gateway.
+Event name add to cart , product views
+
+-	Lifecycle Acquisition, engagement (event count, user and revenue from it) overview, monetization (ecommerce purchase, purchase journey, checkout journey, promotions, transactions) , retention (new users, Returning users) overview, search console (organic google search query)
+-	User Attributes overview by country , city, gender, interest, age, language
+-	Audiences all users, non purchases, recently active, top 5%
+-	Tech Overview active user by platform like windows, ios , linux, web, android
+Desktop, mobile or tablet user, browser being used.
+
+Explore we can create homepage as per the required data with adding the various events.
+Free templates are also available with path and funnel exploration, last items purchased and last modified by person and time.
+
+Advertising we can check the conversion performance and from which channel like direct, referral, paid, email, etc.
+Attribution path and models – key events and their revenue from each channel
+Planning – display campaign names and events , cost, key events , ads click, ads cost per click, total revenue & return on ad revenue.
+Google Ads – Ads Campaign can be filtered with date and event with total revenue, advertising segments
+
+
+
+If you have your own website, how will configure Google Analytics and for what purposes? [Hint: See the Demo video of Google Analytics https://www.youtube.com/watch?v=h9bqUZP6AB0&t=7s and https://www.youtube.com/watch?v=UuE37-MM1ws)*
+If we have our own website so we can copy the web URL and give a stream name and then tagging with analytics.
+Copy the measurement ID – click on analytics – click on tag then create a account with name and URL – we will get head and body code to tag – copy and past in code with head and body at the end.
+Then go to tags where  we can check the URL tagged – copy the measurement ID and paste in URL tagged 
+We can also rename it and Publish.
